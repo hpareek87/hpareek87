@@ -1,6 +1,6 @@
 # Hi, I'm Hardik Pareek 👋
 
-### MS Data Science @ Arizona State University | Cloud & Data Engineering
+### MS Computer Science @ Arizona State University | Cloud & Data Engineering
 
 I build scalable systems that turn messy data into meaningful insights.
 
