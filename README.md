@@ -1,6 +1,6 @@
 # Hi, I'm Hardik Pareek 👋
 
-### MS Computer Science @ Arizona State University | AI & Product
+### MS Computer Science @ Arizona State University | Data Science & AI (Ads)
 
 I build scalable systems that turn messy data into meaningful insights.
 
